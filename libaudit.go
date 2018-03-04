@@ -130,7 +130,7 @@ type auditStatus struct {
 	BacklogLimit    uint32 /* waiting messages limit */
 	Lost            uint32 /* messages lost */
 	Backlog         uint32 /* messages waiting in queue */
-	//Version         uint32 /* audit api version number */
+	Version         uint32 /* audit api version number */
 	BacklogWaitTime uint32 /* message queue wait timeout */
 }
 

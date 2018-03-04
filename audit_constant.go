@@ -5,7 +5,7 @@
 package libaudit
 
 const (
-	AUDIT_STATUS_SIZE = 36 // Size of auditStatus
+	AUDIT_STATUS_SIZE = 40 // Size of auditStatus
 )
 
 const (
